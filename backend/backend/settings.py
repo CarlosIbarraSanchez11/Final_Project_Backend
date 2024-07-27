@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'final_project',
         # 'NAME': 'todolist',
         'USER': 'postgres',
-        'PASSWORD': 'Natsulisana2',
+        'PASSWORD': 'Natsulisana',
         # 'PASSWORD': '123456',
         'HOST': '127.0.0.1',
         'PORT': '5432'
